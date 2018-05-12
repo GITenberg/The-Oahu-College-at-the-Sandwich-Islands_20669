@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9451'
     url: http://www.gutenberg.org/2009/agents/9451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20669#The-Oahu-College-at-the-Sandwich-Islands
 gutenberg_issued: '2007-02-25'
 gutenberg_type: Text
 identifiers:
